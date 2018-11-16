@@ -6,7 +6,7 @@
 -->
 <html>
     <head>
-        <title>Fechas de Torneos</title>
+        <title>REGISTRO</title>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
         <link rel="stylesheet" href="assets/css/main.css" />
@@ -41,48 +41,36 @@
             <!-- Main -->
             <article id="main">
                 <header>
-                    <h2>Fechas de Torneos</h2>
-                    <p>Aqui podras ver cuando serán los prosimos torneos</p>
+                    <h2>REGISTRARSE</h2>
+            <div class ="row">
+                <div class="col-4">
+                </div>
+                <div class="col-4">
+                    
+                        <input id ="cajaNombre" class="form-control" type="text" placeholder="Usuario" required="required">
+                        <br/>
+                        <input id ="cajaPassword" class="form-control" type="password" placeholder="Contraseña">
+                        <br/>
+                        <input id ="cajaPassword" class="form-control" type="password" placeholder="Repite Contraseña">
+                        <br/>
+                        <button id="boton1" class="button primary" type="submit" href="index.php">REGISTRAR</button>
+                        <br/><br/>
+                </div>
+                <div class="col-4">
+                </div>
+            </div>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            
                 </header>
-                <section class="wrapper style5">
-                    <div class="inner">
 
-                        <h3>FIFA 19</h3>
-                        <p>ULTIMATE TEAM</p>
-                        <p>VIRTUAL PRO</p>
-
-
-                        <hr />
-
-                        <h3>NBA 2K19</h3>
-                        <p>MY TEAM</p>
-                        <p>EL PARQUE</p>
-                        
-                        <hr />
-                        
-                        <h3>CALL OF DUTY BLACK OPS 4</h3>
-                        <p>BATTLE ROYALE</p>
-                        <p>DUELO POR EQUIPOS</p>
-                        <hr />
-
-                        <h3>FORTNITE</h3>
-                        <p>SOLO</p>
-                        <p>DUOS</p>
-                        <p>ESCUADRONES</p>
-                        
-                        <hr />
-                        
-
-                        <h3>CSGO</h3>
-                        <p>DUELO POR EQUIPOS</p>
-                        
-                        
-                        <hr />
-
-
-                    </div>
-                </section>
+                
             </article>
+            
 
             <!-- Footer -->
             <footer id="footer">
@@ -111,4 +99,3 @@
 
     </body>
 </html>
-

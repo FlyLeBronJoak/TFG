@@ -19,7 +19,7 @@ and open the template in the editor.
 
             <!-- Header -->
             <header id="header" class="alt">
-                <h1><a href="index.html">Spectral</a></h1>
+                <h1><a href="index.html">GAME CHALLENGE</a></h1>
                 <nav id="nav">
                     <ul>
                         <li class="special">
@@ -29,6 +29,7 @@ and open the template in the editor.
                                     <li><a href="index.php">Inicio</a></li>
                                     <li><a href="fechasTorneos.php">Fechas de Torneos</a></li>
                                     <li><a href="elements.html">Noticias</a></li>
+                                    <li><a href="elements.html">Recompensas</a></li>
                                     
                                 </ul>
                             </div>
@@ -45,8 +46,8 @@ and open the template in the editor.
                         y gana increibles recompensas<br />
                         para canjear en <a href="https://store.steampowered.com/?l=spanish">STEAM</a></p>
                     <ul class="actions special">
-                        <li><a href="#" class="button primary">INCIAR SESION</a></li>
-                        <li><a href="#" class="button primary">REGISTRARSE</a></li>
+                        <li><a href="iniciar.php" class="button primary">INCIAR SESION</a></li>
+                        <li><a href="registro.php" class="button primary">REGISTRARSE</a></li>
                     </ul>
                 </div>
                 <a href="#footer" class="more scrolly">REDES SOCIALES</a>
