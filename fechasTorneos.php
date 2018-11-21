@@ -42,39 +42,48 @@
             <article id="main">
                 <header>
                     <h2>Fechas de Torneos</h2>
-                    <p>Aqui podras ver cuando serán los prosimos torneos</p>
+                    <p>Aqui podras ver cuando serán los proximos torneos</p>
                 </header>
                 <section class="wrapper style5">
                     <div class="inner">
 
                         <h3>FIFA 19</h3>
-                        <p>ULTIMATE TEAM</p>
-                        <p>VIRTUAL PRO</p>
-
+                        <p>ULTIMATE TEAM</p><a href="virtualpro.php"><button id="boton1" class="button primary" type="submit">INSCRIBIRSE</button></a>
+                        <br/><br/>
+                        <p>VIRTUAL PRO</p><a href="virtualpro.php"><button id="boton1" class="button primary" type="submit">INSCRIBIRSE</button></a>
+                        <br/><br/>
 
                         <hr />
 
                         <h3>NBA 2K19</h3>
-                        <p>MY TEAM</p>
-                        <p>EL PARQUE</p>
+                        <p>MY TEAM</p><a href="virtualpro.php"><button id="boton1" class="button primary" type="submit">INSCRIBIRSE</button></a>
+                        <br/><br/>
+                        <p>EL PARQUE</p><a href="virtualpro.php"><button id="boton1" class="button primary" type="submit">INSCRIBIRSE</button></a>
+                        <br/><br/>
                         
                         <hr />
                         
                         <h3>CALL OF DUTY BLACK OPS 4</h3>
-                        <p>BATTLE ROYALE</p>
-                        <p>DUELO POR EQUIPOS</p>
+                        <p>BATTLE ROYALE</p><a href="virtualpro.php"><button id="boton1" class="button primary" type="submit">INSCRIBIRSE</button></a>
+                        <br/><br/>
+                        <p>DUELO POR EQUIPOS</p><a href="virtualpro.php"><button id="boton1" class="button primary" type="submit">INSCRIBIRSE</button></a>
+                        <br/><br/>
                         <hr />
 
                         <h3>FORTNITE</h3>
-                        <p>SOLO</p>
-                        <p>DUOS</p>
-                        <p>ESCUADRONES</p>
+                        <p>SOLO</p><a href="virtualpro.php"><button id="boton1" class="button primary" type="submit">INSCRIBIRSE</button></a>
+                        <br/><br/>
+                        <p>DUOS</p><a href="virtualpro.php"><button id="boton1" class="button primary" type="submit">INSCRIBIRSE</button></a>
+                        <br/><br/>
+                        <p>ESCUADRONES</p><a href="virtualpro.php"><button id="boton1" class="button primary" type="submit">INSCRIBIRSE</button></a>
+                        <br/><br/>
                         
                         <hr />
                         
 
                         <h3>CSGO</h3>
-                        <p>DUELO POR EQUIPOS</p>
+                        <p>DUELO POR EQUIPOS</p><a href="virtualpro.php"><button id="boton1" class="button primary" type="submit">INSCRIBIRSE</button></a>
+                        <br/><br/>
                         
                         
                         <hr />

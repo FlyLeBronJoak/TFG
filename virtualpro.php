@@ -6,7 +6,7 @@
 -->
 <html>
     <head>
-        <title>INICIAR SESION</title>
+        <title>FIFA 19 - VIRTUAL PRO</title>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
         <link rel="stylesheet" href="assets/css/main.css" />
@@ -41,34 +41,54 @@
             <!-- Main -->
             <article id="main">
                 <header>
-                    <h2>INICIAR SESION</h2>
-            <div class ="row">
-                <div class="col-4">
-                </div>
-                <div class="col-4">
-                    <br/><br/>
-                        <input id ="cajaNombre" class="form-control" type="text" placeholder="Usuario" required="required">
-                        <br/>
-                        <input id ="cajaPassword" class="form-control" type="password" placeholder="Contraseña">
-                        <br/>
-                        <a href="fechasTorneos.php"><button id="boton1" class="button primary" type="submit">ENTRAR</button></a>
-                        <br/><br/>
-                </div>
-                <div class="col-4">
-                </div>
-            </div>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            
+                    <h2>VIRTUAL PRO</h2>
+                    <p>Inscribe a tu equipo en la liga de Virtual Pro</p>
                 </header>
+                <section class="wrapper style5">
+                    <div class="inner">
+                        <div class ="row">
+                        <div class="col-4">
+                    <br/><br/>
+                        <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 1" required="required">
+                        <br/>
+                        <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 2" required="required">
+                        <br/>
+                        <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 3" required="required">
+                        <br/>
+                        <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 4" required="required">
+                        <br/>
+                        
+                </div>
+                        <div class="col-4">
+                            <br/><br/>
+                        <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 5" required="required">
+                        <br/>
+                        <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 6" required="required">
+                        <br/>
+                        <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 7" required="required">
+                        <br/>
+                        <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 8" required="required">
+                        <br/>
+                    
+                </div>
+                        <div class="col-4">
+                            <br/><br/>
+                        <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 9" required="required">
+                        <br/>
+                        <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 10" required="required">
+                        <br/>
+                        <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 11" required="required">
+                        <br/>
+                        
+                    
+                </div>
+                        <a href="fechasTorneos.php"><button id="boton1" class="button primary" type="submit">CONFIRMAR</button></a>
+                        <br/><br/>
 
-                
+
+                    </div>
+                </section>
             </article>
-            
 
             <!-- Footer -->
             <footer id="footer">
