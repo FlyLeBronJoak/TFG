@@ -51,6 +51,7 @@
                         <br/>
                         <input id ="cajaPassword" class="form-control" type="password" placeholder="Contraseña">
                         <br/>
+                        
                         <a href="fechasTorneos.php"><button id="boton1" class="button primary" type="submit">ENTRAR</button></a>
                         <br/><br/>
                 </div>
