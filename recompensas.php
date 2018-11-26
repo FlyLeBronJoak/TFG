@@ -28,7 +28,7 @@
                                 <ul>
                                     <li><a href="index.php">Inicio</a></li>
                                     <li><a href="fechasTorneos.php">Fechas de Torneos</a></li>
-                                    <li><a href="elements.html">Noticias</a></li>
+                                    <li><a href="noticias.php">Noticias</a></li>
                                     <li><a href="recompensas.php">Recompensas</a></li>
                                 </ul>
                             </div>
@@ -163,62 +163,61 @@
                     </div>
                     <div class="col-2"></div>
                 </div>
-<div class="row">
+                <div class="row">
                     <div class="col-2"></div>
                     <div class="col-8">
-                <section>
-                    <h4>Image</h4>
-                    <h5>Fit</h5>
-                    <div class="box alt">
-                        <div class="row gtr-50 gtr-uniform">
-                            <div class="col-12"><span class="image fit"><img src="images/black ops wallpaper.jpg" alt="" /></span></div>
-                            <div class="col-4"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
-                            <div class="col-4"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
-                            <div class="col-4"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
-                            <div class="col-4"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
-                            <div class="col-4"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
-                            <div class="col-4"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
-                            <div class="col-4"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
-                            <div class="col-4"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
-                            <div class="col-4"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
-                        </div>
+                        <section>
+                            <h4>Fotos de las recompensas</h4>
+                            <div class="box alt">
+                                <div class="row gtr-50 gtr-uniform">
+                                    <div class="col-4"><span class="image fit"><img src="images/10_euros.jpg" alt="" /></span></div>
+                                    <div class="col-4"><span class="image fit"><img src="images/rainbow.jpg" alt="" /></span></div>
+                                    <div class="col-4"><span class="image fit"><img src="images/50_euros.jpg" alt="" /></span></div>
+                                    <div class="col-4"><span class="image fit"><img src="images/xbox.jpg" alt="" /></span></div>
+                                    <div class="col-4"><span class="image fit"><img src="images/msi.jpg" alt="" /></span></div>
+
+                                </div>
+                            </div>
+                            <!--                    <h5>Left &amp; Right</h5>
+                                                <p><span class="image left"><img src="images/10_euros.jpg" alt="" /></span></p>
+                                                <p><span class="image right"><img src="images/rainbow.jpg" alt="" /></span></p>
+                                                <p><span class="image left"><img src="images/50_euros.jpg" alt="" /></span></p>
+                                                <p><span class="image right"><img src="images/xbox.jpg" alt="" /></span></p>
+                                                <p><span class="image left"><img src="images/msi.jpg" alt="" /></span></p>-->
+
+                        </section>
                     </div>
-                    <h5>Left &amp; Right</h5>
-                    <p><span class="image left"><img src="images/pic04.jpg" alt="" /></span>Morbi mattis mi consectetur tortor elementum, varius pellentesque velit convallis. Aenean tincidunt lectus auctor mauris maximus, ac scelerisque ipsum tempor. Duis vulputate ex et ex tincidunt, quis lacinia velit aliquet. Duis non efficitur nisi, id malesuada justo. Maecenas sagittis felis ac sagittis semper. Curabitur purus leo, tempus sed finibus eget, fringilla quis risus. Maecenas et lorem quis sem varius sagittis et a est. Maecenas iaculis iaculis sem. Donec vel dolor at arcu tincidunt bibendum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce ut aliquet justo. Donec id neque ipsum. Integer eget ultricies odio. Nam vel ex a orci fringilla tincidunt. Aliquam eleifend ligula non velit accumsan cursus. Etiam ut gravida sapien. Morbi mattis mi consectetur tortor elementum, varius pellentesque velit convallis. Aenean tincidunt lectus auctor mauris maximus, ac scelerisque ipsum tempor. Duis vulputate ex et ex tincidunt, quis lacinia velit aliquet. Duis non efficitur nisi, id malesuada justo. Maecenas sagittis felis ac sagittis semper. Curabitur purus leo, tempus sed finibus eget, fringilla quis risus. Maecenas et lorem quis sem varius sagittis et a est. Maecenas iaculis iaculis sem. Donec vel dolor at arcu tincidunt bibendum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce ut aliquet justo. Donec id neque ipsum. Integer eget ultricies odio. Nam vel ex a orci fringilla tincidunt. Aliquam eleifend ligula non velit accumsan cursus. Etiam ut gravida sapien.</p>
-                    <p><span class="image right"><img src="images/pic05.jpg" alt="" /></span>Vestibulum ultrices risus velit, sit amet blandit massa auctor sit amet. Sed eu lectus sem. Phasellus in odio at ipsum porttitor mollis id vel diam. Praesent sit amet posuere risus, eu faucibus lectus. Vivamus ex ligula, tempus pulvinar ipsum in, auctor porta quam. Proin nec dui cursus, posuere dui eget interdum. Fusce lectus magna, sagittis at facilisis vitae, pellentesque at etiam. Quisque posuere leo quis sem commodo, vel scelerisque nisi scelerisque. Suspendisse id quam vel tortor tincidunt suscipit. Nullam auctor orci eu dolor consectetur, interdum ullamcorper ante tincidunt. Mauris felis nec felis elementum varius. Nam sapien ante, varius in pulvinar vitae, rhoncus id massa. Donec varius ex in mauris ornare, eget euismod urna egestas. Etiam lacinia tempor ipsum, sodales porttitor justo. Aliquam dolor quam, semper in tortor eu, volutpat efficitur quam. Fusce nec fermentum nisl. Aenean erat diam, tempus aliquet erat. Etiam iaculis nulla ipsum, et pharetra libero rhoncus ut. Phasellus rutrum cursus velit, eget condimentum nunc blandit vel. In at pulvinar lectus. Morbi diam ante, vulputate et imperdiet eget, fermentum non dolor. Ut eleifend sagittis tincidunt. Sed viverra commodo mi, ac rhoncus justo. Duis neque ligula, elementum ut enim vel, posuere finibus justo. Vivamus facilisis maximus nibh quis pulvinar. Quisque hendrerit in ipsum id tellus facilisis fermentum. Proin mauris dui.</p>
-                </section>
-                </div>
                     <div class="col-2"></div>
-</div>
+                </div>
 
         </div>
-    
 
 
-<!-- Footer -->
-<footer id="footer">
-    <ul class="icons">
-        <li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-        <li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-        <li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-        <li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
-        <li><a href="#" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
-    </ul>
-    <ul class="copyright">
-       <li>&copy; GAME CHALLENGE</li><li>Creada por: <a href="http://html5up.net">Joaquin Sierra</a></li>
-    </ul>
-</footer>
 
-</div>
+        <!-- Footer -->
+        <footer id="footer">
+            <ul class="icons">
+                <li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+                <li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+                <li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+                <li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
+                <li><a href="#" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+            </ul>
+            <ul class="copyright">
+                <li>&copy; GAME CHALLENGE</li><li>Creada por: <a href="http://html5up.net">Joaquin Sierra</a></li>
+            </ul>
+        </footer>
 
-<!-- Scripts -->
-<script src="assets/js/jquery.min.js"></script>
-<script src="assets/js/jquery.scrollex.min.js"></script>
-<script src="assets/js/jquery.scrolly.min.js"></script>
-<script src="assets/js/browser.min.js"></script>
-<script src="assets/js/breakpoints.min.js"></script>
-<script src="assets/js/util.js"></script>
-<script src="assets/js/main.js"></script>
+    </div>
+
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.scrollex.min.js"></script>
+    <script src="assets/js/jquery.scrolly.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
 
 </body>
 </html>

@@ -29,7 +29,7 @@
                                     <li><a href="index.php">Inicio</a></li>
                                     <li><a href="fechasTorneos.php">Fechas de Torneos</a></li>
                                     <li><a href="elements.html">Noticias</a></li>
-                                    <li><a href="elements.html">Recompensas</a></li>
+                                    <li><a href="recompensas.php">Recompensas</a></li>
                                     
                                 </ul>
                             </div>
@@ -42,12 +42,13 @@
             <article id="main">
                 <header>
                     <h2>Fechas de Torneos</h2>
-                    <p>Aqui podras ver cuando serán los proximos torneos</p>
+                    <p>Aqui podras ver cuando seran los proximos torneos</p>
                 </header>
                 <section class="wrapper style5">
                     <div class="inner">
 
                         <h3>FIFA 19</h3>
+                        <p><span class="image left"><img src="images/fifa19.jpg" alt="" /></span></p>
                         <p>ULTIMATE TEAM</p><a href="virtualpro.php"><button id="boton1" class="button primary" type="submit">INSCRIBIRSE</button></a>
                         <br/><br/>
                         <p>VIRTUAL PRO</p><a href="virtualpro.php"><button id="boton1" class="button primary" type="submit">INSCRIBIRSE</button></a>
@@ -56,6 +57,7 @@
                         <hr />
 
                         <h3>NBA 2K19</h3>
+                        <p><span class="image left"><img src="images/nba_2k19.jpg" alt="" /></span></p>
                         <p>MY TEAM</p><a href="virtualpro.php"><button id="boton1" class="button primary" type="submit">INSCRIBIRSE</button></a>
                         <br/><br/>
                         <p>EL PARQUE</p><a href="virtualpro.php"><button id="boton1" class="button primary" type="submit">INSCRIBIRSE</button></a>
@@ -64,6 +66,7 @@
                         <hr />
                         
                         <h3>CALL OF DUTY BLACK OPS 4</h3>
+                        <p><span class="image left"><img src="images/bo4_logo.png" alt="" /></span></p>
                         <p>BATTLE ROYALE</p><a href="virtualpro.php"><button id="boton1" class="button primary" type="submit">INSCRIBIRSE</button></a>
                         <br/><br/>
                         <p>DUELO POR EQUIPOS</p><a href="virtualpro.php"><button id="boton1" class="button primary" type="submit">INSCRIBIRSE</button></a>
@@ -71,18 +74,21 @@
                         <hr />
 
                         <h3>FORTNITE</h3>
+                        <p><span class="image left"><img src="images/fortnite.png" alt="" /></span></p>
                         <p>SOLO</p><a href="virtualpro.php"><button id="boton1" class="button primary" type="submit">INSCRIBIRSE</button></a>
                         <br/><br/>
                         <p>DUOS</p><a href="virtualpro.php"><button id="boton1" class="button primary" type="submit">INSCRIBIRSE</button></a>
                         <br/><br/>
-                        <p>ESCUADRONES</p><a href="virtualpro.php"><button id="boton1" class="button primary" type="submit">INSCRIBIRSE</button></a>
-                        <br/><br/>
+                        
                         
                         <hr />
                         
 
                         <h3>CSGO</h3>
+                        <p><span class="image left"><img src="images/csgo.png" alt="" /></span></p>
                         <p>DUELO POR EQUIPOS</p><a href="virtualpro.php"><button id="boton1" class="button primary" type="submit">INSCRIBIRSE</button></a>
+                        <br/><br/>
+                        <p>BUSCAR Y DESTRUIR</p><a href="virtualpro.php"><button id="boton1" class="button primary" type="submit">INSCRIBIRSE</button></a>
                         <br/><br/>
                         
                         
