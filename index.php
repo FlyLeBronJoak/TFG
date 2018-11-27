@@ -5,6 +5,7 @@ To change this template file, choose Tools | Templates
 and open the template in the editor.
 -->
 <html>
+    <link rel="icon" type="image/png" href="images/favicon.png">
     <head>
         <title>GAME CHALLENGE</title>
         <meta charset="utf-8" />
