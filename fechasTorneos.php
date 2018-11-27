@@ -26,11 +26,11 @@
                         <li class="special">
                             <a href="#menu" class="menuToggle"><span>Menu</span></a>
                             <div id="menu">
-                                <ul>
-                                    <li><a href="index.php">Inicio</a></li>
+                                                                <ul>
+                                    <li><a href="perfilUsuario.php">Gestionar Perfil</a></li>
                                     <li><a href="fechasTorneos.php">Fechas de Torneos</a></li>
-                                    <li><a href="elements.html">Noticias</a></li>
                                     <li><a href="recompensas.php">Recompensas</a></li>
+                                    <li><a href="noticias.php">Noticias</a></li>
                                     
                                 </ul>
                             </div>

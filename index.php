@@ -27,10 +27,10 @@ and open the template in the editor.
                             <a href="#menu" class="menuToggle"><span>Menu</span></a>
                             <div id="menu">
                                 <ul>
-                                    <li><a href="index.php">Inicio</a></li>
+                                    <li><a href="perfilUsuario.php">Gestionar Perfil</a></li>
                                     <li><a href="fechasTorneos.php">Fechas de Torneos</a></li>
-                                    <li><a href="noticias.php">Noticias</a></li>
                                     <li><a href="recompensas.php">Recompensas</a></li>
+                                    <li><a href="noticias.php">Noticias</a></li>
                                     
                                 </ul>
                             </div>
@@ -45,7 +45,7 @@ and open the template in the editor.
                     <h2>GAME CHALLENGE</h2>
                     <p>Juega con tus amigos<br />
                         y gana increibles recompensas<br />
-                        para canjear en <a href="https://store.steampowered.com/?l=spanish">STEAM</a></p>
+                        
                     <ul class="actions special">
                         <li><a href="iniciar.php" class="button primary">INCIAR SESION</a></li>
                         <li><a href="registro.php" class="button primary">REGISTRARSE</a></li>

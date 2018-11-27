@@ -27,10 +27,11 @@
                             <a href="#menu" class="menuToggle"><span>Menu</span></a>
                             <div id="menu">
                                 <ul>
-                                    <li><a href="index.php">Inicio</a></li>
+                                    <li><a href="perfilUsuario.php">Gestionar Perfil</a></li>
                                     <li><a href="fechasTorneos.php">Fechas de Torneos</a></li>
-                                    <li><a href="noticias.php">Noticias</a></li>
                                     <li><a href="recompensas.php">Recompensas</a></li>
+                                    <li><a href="noticias.php">Noticias</a></li>
+
                                 </ul>
                             </div>
                         </li>
@@ -49,31 +50,31 @@
                 <section>
                     <br>
                     <br>
-                     
+
                     <div class="row">
                         <div class="col-1"></div>
                         <div class="col-10">
-                    <h4>22 de Noviembre</h4>
-                    <p><span class="image left"><img src="images/not.jpg" alt="" /></span> Es curioso, pero dos de los principales abanderados de Sony y Microsoft para los próximos tiempos tienen una cosa en común. Ambos han presentado un importante cambio en su política de personajes protagonistas para sus próximas entregas y, aunque lo han hecho por motivos diferentes que entraré a describir después, lo cierto es que los dos han apostado ahora por poner a mujeres al frente de sus narrativas. The Last of Us Parte 2 lo hace dejando a Ellie al mando tras ser la secundaria en el original, y Gears 5 lo hace con Kait después de que ésta fuera un miembro más del grupo en el juego anterior.
+                            <h4>22 de Noviembre</h4>
+                            <p><span class="image left"><img src="images/not.jpg" alt="" /></span> Es curioso, pero dos de los principales abanderados de Sony y Microsoft para los próximos tiempos tienen una cosa en común. Ambos han presentado un importante cambio en su política de personajes protagonistas para sus próximas entregas y, aunque lo han hecho por motivos diferentes que entraré a describir después, lo cierto es que los dos han apostado ahora por poner a mujeres al frente de sus narrativas. The Last of Us Parte 2 lo hace dejando a Ellie al mando tras ser la secundaria en el original, y Gears 5 lo hace con Kait después de que ésta fuera un miembro más del grupo en el juego anterior.
 
 
-No es algo nuevo, desde luego, pero sí es sintomático de cómo están cambiando las cosas en los últimos tiempos. Buena noticia para un arte, el nuestro, que tiene que ir virando hacia la normalización, a pesar de la reticencia de los retrógrados. Más allá de explorar la importancia social de esto y lo relevante que es para nuestro mundillo en términos de igualdad y diversidad, que lo dejamos para otros, queremos quedarnos en este texto con los motivos que han llevado a unos y otros a apostar por este importante cambio en los roles que, además, ha coincidido en el tiempo y que, en realidad, oculta algo más en su interior. ¿Por qué? ¿Qué motivos hay? ¿Hay alguna vinculación entre uno y otro caso?
+                                No es algo nuevo, desde luego, pero sí es sintomático de cómo están cambiando las cosas en los últimos tiempos. Buena noticia para un arte, el nuestro, que tiene que ir virando hacia la normalización, a pesar de la reticencia de los retrógrados. Más allá de explorar la importancia social de esto y lo relevante que es para nuestro mundillo en términos de igualdad y diversidad, que lo dejamos para otros, queremos quedarnos en este texto con los motivos que han llevado a unos y otros a apostar por este importante cambio en los roles que, además, ha coincidido en el tiempo y que, en realidad, oculta algo más en su interior. ¿Por qué? ¿Qué motivos hay? ¿Hay alguna vinculación entre uno y otro caso?
 
 
-Porque The Last of Us 2 y Gears 5 llegarán pronto y tienen a mujeres al frente de sus campañas tras apostar en juegos precedentes por hombres. ¿Qué hay detrás de esto?</p>
-                    <p><span class="image right"><img src="images/zelda.jpg" alt="" /></span>Hace algo más de un año el productor de la saga The Legend of Zelda aseguró que adaptar The Legend of Zelda: Skyward Sword a Nintendo Switch era "totalmente posible", aunque sus palabras no pasaron de ahí. Sin embargo, al parecer Eiji Aonuma ha vuelto a mencionar esta posibilidad en un concierto dedicado a la franquicia en la ciudad de Osaka, Japón, dejando entrever que habrá una versión especial de esta aventura en la consola híbrida.
+                                Porque The Last of Us 2 y Gears 5 llegarán pronto y tienen a mujeres al frente de sus campañas tras apostar en juegos precedentes por hombres. ¿Qué hay detrás de esto?</p>
+                            <p><span class="image right"><img src="images/zelda.jpg" alt="" /></span>Hace algo más de un año el productor de la saga The Legend of Zelda aseguró que adaptar The Legend of Zelda: Skyward Sword a Nintendo Switch era "totalmente posible", aunque sus palabras no pasaron de ahí. Sin embargo, al parecer Eiji Aonuma ha vuelto a mencionar esta posibilidad en un concierto dedicado a la franquicia en la ciudad de Osaka, Japón, dejando entrever que habrá una versión especial de esta aventura en la consola híbrida.
 
 
-Varios aficionados presentes en el acto comenzaron a escribir de inmediato en las redes sociales, replicando las palabras del creativo de Nintendo. "Sabemos muy bien lo que estáis pensando. ¿Skyward Sword en Switch, verdad?”. Sin una confirmación oficial de por medio, el productor de la saga Zelda habría dejado entrever que ya se trabaja en una versión en alta definición de esta aventura de acción que, en su día, sacó provecho del control por movimientos del Wii Motion Plus.
+                                Varios aficionados presentes en el acto comenzaron a escribir de inmediato en las redes sociales, replicando las palabras del creativo de Nintendo. "Sabemos muy bien lo que estáis pensando. ¿Skyward Sword en Switch, verdad?”. Sin una confirmación oficial de por medio, el productor de la saga Zelda habría dejado entrever que ya se trabaja en una versión en alta definición de esta aventura de acción que, en su día, sacó provecho del control por movimientos del Wii Motion Plus.
 
 
-Dado que esta tecnología se ha mejorado de forma notable, dando como resultado los Joy-Con de Nintendo Switch, el videojuego de Wii se adaptaría a la perfección a los circuitos de la consola híbrida. No sería además algo extraño teniendo en cuenta que para amenizar la espera de Zelda: Breath of the Wild, Nintendo estrenó una remasterización de Zelda: The Wind Waker. Los de Kioto podrían realizar esa misma acción mientras trabajan en el nuevo Zelda, para el que están buscando nuevos talentos.
+                                Dado que esta tecnología se ha mejorado de forma notable, dando como resultado los Joy-Con de Nintendo Switch, el videojuego de Wii se adaptaría a la perfección a los circuitos de la consola híbrida. No sería además algo extraño teniendo en cuenta que para amenizar la espera de Zelda: Breath of the Wild, Nintendo estrenó una remasterización de Zelda: The Wind Waker. Los de Kioto podrían realizar esa misma acción mientras trabajan en el nuevo Zelda, para el que están buscando nuevos talentos.
 
 
-Algunos especulan incluso con la posibilidad de que esta remasterización sea anunciada durante la gala The Game Awards 2018 que se celebra a principios de diciembre.</p>
-                    </div>
-                    <div class="col-1"></div>
+                                Algunos especulan incluso con la posibilidad de que esta remasterización sea anunciada durante la gala The Game Awards 2018 que se celebra a principios de diciembre.</p>
                         </div>
+                        <div class="col-1"></div>
+                    </div>
                 </section>
 
         </div>

@@ -27,11 +27,11 @@
                             <a href="#menu" class="menuToggle"><span>Menu</span></a>
                             <div id="menu">
                                 <ul>
-                                    <li><a href="index.php">Inicio</a></li>
+                                    <li><a href="perfilUsuario.php">Gestionar Perfil</a></li>
                                     <li><a href="fechasTorneos.php">Fechas de Torneos</a></li>
-                                    <li><a href="elements.html">Noticias</a></li>
-                                    <li><a href="elements.html">Recompensas</a></li>
-                                    
+                                    <li><a href="recompensas.php">Recompensas</a></li>
+                                    <li><a href="noticias.php">Noticias</a></li>
+
                                 </ul>
                             </div>
                         </li>
@@ -48,46 +48,46 @@
                 <section class="wrapper style5">
                     <div class="inner">
                         <div class ="row">
-                        <div class="col-4">
-                    <br/><br/>
-                        <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 1" required="required">
-                        <br/>
-                        <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 2" required="required">
-                        <br/>
-                        <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 3" required="required">
-                        <br/>
-                        <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 4" required="required">
-                        <br/>
-                        
-                </div>
-                        <div class="col-4">
-                            <br/><br/>
-                        <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 5" required="required">
-                        <br/>
-                        <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 6" required="required">
-                        <br/>
-                        <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 7" required="required">
-                        <br/>
-                        <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 8" required="required">
-                        <br/>
-                    
-                </div>
-                        <div class="col-4">
-                            <br/><br/>
-                        <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 9" required="required">
-                        <br/>
-                        <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 10" required="required">
-                        <br/>
-                        <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 11" required="required">
-                        <br/>
-                        
-                    
-                </div>
-                        <a href="fechasTorneos.php"><button id="boton1" class="button primary" type="submit">CONFIRMAR</button></a>
-                        <br/><br/>
+                            <div class="col-4">
+                                <br/><br/>
+                                <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 1" required="required">
+                                <br/>
+                                <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 2" required="required">
+                                <br/>
+                                <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 3" required="required">
+                                <br/>
+                                <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 4" required="required">
+                                <br/>
+
+                            </div>
+                            <div class="col-4">
+                                <br/><br/>
+                                <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 5" required="required">
+                                <br/>
+                                <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 6" required="required">
+                                <br/>
+                                <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 7" required="required">
+                                <br/>
+                                <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 8" required="required">
+                                <br/>
+
+                            </div>
+                            <div class="col-4">
+                                <br/><br/>
+                                <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 9" required="required">
+                                <br/>
+                                <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 10" required="required">
+                                <br/>
+                                <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 11" required="required">
+                                <br/>
 
 
-                    </div>
+                            </div>
+                            <a href="fechasTorneos.php"><button id="boton1" class="button primary" type="submit">CONFIRMAR</button></a>
+                            <br/><br/>
+
+
+                        </div>
                 </section>
             </article>
 

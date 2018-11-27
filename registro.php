@@ -27,11 +27,11 @@
                             <a href="#menu" class="menuToggle"><span>Menu</span></a>
                             <div id="menu">
                                 <ul>
-                                    <li><a href="index.php">Inicio</a></li>
+                                    <li><a href="perfilUsuario.php">Gestionar Perfil</a></li>
                                     <li><a href="fechasTorneos.php">Fechas de Torneos</a></li>
-                                    <li><a href="elements.html">Noticias</a></li>
-                                    <li><a href="elements.html">Recompensas</a></li>
-                                    
+                                    <li><a href="recompensas.php">Recompensas</a></li>
+                                    <li><a href="noticias.php">Noticias</a></li>
+
                                 </ul>
                             </div>
                         </li>
@@ -43,36 +43,36 @@
             <article id="main">
                 <header>
                     <h2>REGISTRARSE</h2>
-            <div class ="row">
-                <div class="col-4">
-                </div>
-                <div class="col-4">
-                    
-                        <input id ="cajaNombre" class="form-control" type="text" placeholder="Usuario" required="required">
-                        <br/>
-                        <input id ="cajaPassword" class="form-control" type="password" placeholder="Contraseña">
-                        <br/>
-                        <input id ="cajaPassword" class="form-control" type="password" placeholder="Repite Contraseña">
-                        <br
-                            
-                        <a href="index.php"><button id="boton1" class="button primary" type="submit" href="index.php">REGISTRAR</button></a>
-                        <br/><br/>
-                </div>
-                <div class="col-4">
-                </div>
-            </div>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            
+                    <div class ="row">
+                        <div class="col-4">
+                        </div>
+                        <div class="col-4">
+
+                            <input id ="cajaNombre" class="form-control" type="text" placeholder="Usuario" required="required">
+                            <br/>
+                            <input id ="cajaPassword" class="form-control" type="password" placeholder="Contraseña">
+                            <br/>
+                            <input id ="cajaPassword" class="form-control" type="password" placeholder="Repite Contraseña">
+                            <br
+
+                                <a href="index.php"><button id="boton1" class="button primary" type="submit" href="index.php">REGISTRAR</button></a>
+                            <br/><br/>
+                        </div>
+                        <div class="col-4">
+                        </div>
+                    </div>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+
                 </header>
 
-                
+
             </article>
-            
+
 
             <!-- Footer -->
             <footer id="footer">

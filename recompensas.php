@@ -27,10 +27,11 @@
                             <a href="#menu" class="menuToggle"><span>Menu</span></a>
                             <div id="menu">
                                 <ul>
-                                    <li><a href="index.php">Inicio</a></li>
+                                    <li><a href="perfilUsuario.php">Gestionar Perfil</a></li>
                                     <li><a href="fechasTorneos.php">Fechas de Torneos</a></li>
-                                    <li><a href="noticias.php">Noticias</a></li>
                                     <li><a href="recompensas.php">Recompensas</a></li>
+                                    <li><a href="noticias.php">Noticias</a></li>
+                                    
                                 </ul>
                             </div>
                         </li>
@@ -88,6 +89,7 @@
                                 <tfoot>
 
                                 </tfoot>
+                                <a href="fotosRecompensas.php"><h4>Fotos de las recompensas</h4></a>
                             </table>
                         </div>
                         <div class="col-2"></div>
@@ -126,8 +128,10 @@
                                             <option value="1">XBOX ONE X</option>
                                             <option value="1">Portátil Gaming MSI</option>
                                         </select>
+                                        
                                     </div>
-                                    <div class="col-4 col-12-small">
+                                    
+<!--                                    <div class="col-4 col-12-small">
                                         <input type="radio" id="demo-priority-low" name="demo-priority" checked>
                                         <label for="demo-priority-low">Low</label>
                                     </div>
@@ -138,7 +142,7 @@
                                     <div class="col-4 col-12-small">
                                         <input type="radio" id="demo-priority-high" name="demo-priority">
                                         <label for="demo-priority-high">High</label>
-                                    </div>
+                                    </div>-->
                                     <div class="col-6 col-12-small">
                                         <input type="checkbox" id="demo-copy" name="demo-copy">
                                         <label for="demo-copy">Enviar copia e mi mensaje</label>
@@ -164,11 +168,11 @@
                     </div>
                     <div class="col-2"></div>
                 </div>
-                <div class="row">
+<!--                <div class="row">
                     <div class="col-2"></div>
                     <div class="col-8">
                         <section>
-                            <h4>Fotos de las recompensas</h4>
+                            <a href="fotosRecompensas.php"><h4>Fotos de las recompensas</h4></a>
                             <div class="box alt">
                                 <div class="row gtr-50 gtr-uniform">
                                     <div class="col-4"><span class="image fit"><img src="images/10_euros.jpg" alt="" /></span></div>
@@ -179,17 +183,17 @@
 
                                 </div>
                             </div>
-                            <!--                    <h5>Left &amp; Right</h5>
+                                                <h5>Left &amp; Right</h5>
                                                 <p><span class="image left"><img src="images/10_euros.jpg" alt="" /></span></p>
                                                 <p><span class="image right"><img src="images/rainbow.jpg" alt="" /></span></p>
                                                 <p><span class="image left"><img src="images/50_euros.jpg" alt="" /></span></p>
                                                 <p><span class="image right"><img src="images/xbox.jpg" alt="" /></span></p>
-                                                <p><span class="image left"><img src="images/msi.jpg" alt="" /></span></p>-->
+                                                <p><span class="image left"><img src="images/msi.jpg" alt="" /></span></p>
 
                         </section>
                     </div>
                     <div class="col-2"></div>
-                </div>
+                </div>-->
 
         </div>
 
