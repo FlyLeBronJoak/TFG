@@ -25,9 +25,9 @@
                     <ul>
                         <li class="special">
                             <a href="#menu" class="menuToggle"><span>Menu</span></a>
-                            <div id="menu">
-                                                                <ul>
-                                    <li><a href="PerfilUsuario.php">Gestionar Perfil</a></li>
+                            <div id="menu"><ul>
+                                    <li><a href="gestionarCompeti.php">Gestionar tus Competiciones</a></li>
+                                    <li><a href="perfilUsuario.php">Gestionar Perfil</a></li>
                                     <li><a href="fechasTorneos.php">Fechas de Torneos</a></li>
                                     <li><a href="recompensas.php">Recompensas</a></li>
                                     <li><a href="noticias.php">Noticias</a></li>

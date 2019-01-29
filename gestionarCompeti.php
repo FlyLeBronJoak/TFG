@@ -43,59 +43,127 @@
             <!-- Main -->
             <article id="main">
                 <header>
-                    <h2>VIRTUAL PRO</h2>
-                    <p>Inscribe a tu equipo en la liga de Virtual Pro</p>
+                    <h2>HORARIO DE COMPETICIONES</h2>
+                    
                 </header>
                 <section class="wrapper style5">
                     <div class="inner">
-                        <div class ="row">
-                            <div class="col-3">
-                                <br/><br/>
-                                <input id ="cajaNombre" class="form-control" type="text" placeholder="Nombre de Equipo" required="required">
-                                <br/>
-                                
-                            </div> 
-                                
-                            <div class="col-3">
-                                <br/><br/>
-                                <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 1" required="required">
-                                <br/>
-                                <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 2" required="required">
-                                <br/>
-                                <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 3" required="required">
-                                <br/>
-                                <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 4" required="required">
-                                <br/>
+                        <table class="egt">
 
-                            </div>
-                            <div class="col-3-small">
-                                <br/><br/>
-                                <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 5" required="required">
-                                <br/>
-                                <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 6" required="required">
-                                <br/>
-                                <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 7" required="required">
-                                <br/>
-                                <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 8" required="required">
-                                <br/>
+                            <tr>
 
-                            </div>
-                            <div class="col-3">
-                                <br/><br/>
-                                <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 9" required="required">
-                                <br/>
-                                <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 10" required="required">
-                                <br/>
-                                <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 11" required="required">
-                                <br/>
+                                <th>Competicion: Copa Summer 2019</th>
 
+                            </tr>
 
-                            </div>
-                            <a href="fechasTorneos.php"><button id="boton1" class="button primary" type="submit">CONFIRMAR</button></a>
-                            <br/><br/>
+                            <tr>
 
+                                <th>Día</th>
 
-                        </div>
+                                <th>Hora</th>
+
+                                <th>Local</th>
+
+                                <th>Visitante</th>
+
+                            </tr>
+
+                            <tr>
+
+                                <td>16 Junio</td>
+
+                                <td>20:45</td>
+
+                                <td>Titans</td>
+
+                                <td>Lions</td>
+
+                            </tr>
+
+                            <tr>
+
+                                <td>19 Junio</td>
+
+                                <td>18:30</td>
+
+                                <td>Lions</td>
+
+                                <td>Supers</td>
+
+                            </tr>
+
+                            <tr>
+
+                                <td>20 Junio</td>
+
+                                <td>18:30</td>
+
+                                <td>Lions</td>
+
+                                <td>Virtuals</td>
+
+                            </tr>
+
+                        </table>
+                        
+                        <table class="egt">
+
+                            <tr>
+
+                                <th>Competicion: Liga 2018-2019 <a href="clasificacion.php">      Consultar Clasificación</a></th>
+
+                            </tr>
+
+                            <tr>
+
+                                <th>Día</th>
+
+                                <th>Hora</th>
+
+                                <th>Local</th>
+
+                                <th>Visitante</th>
+
+                            </tr>
+
+                            <tr>
+
+                                <td>7 Julio</td>
+
+                                <td>20:45</td>
+
+                                <td>Titans</td>
+
+                                <td>Lions</td>
+
+                            </tr>
+
+                            <tr>
+
+                                <td>14 Julio</td>
+
+                                <td>18:30</td>
+
+                                <td>Lions</td>
+
+                                <td>Supers</td>
+
+                            </tr>
+
+                            <tr>
+
+                                <td>22 Agosto</td>
+
+                                <td>18:30</td>
+
+                                <td>Lions</td>
+
+                                <td>Virtuals</td>
+
+                            </tr>
+
+                        </table>
+                    </div>
                 </section>
             </article>
 
@@ -126,6 +194,8 @@
 
     </body>
 </html>
+
+
 
 
 
