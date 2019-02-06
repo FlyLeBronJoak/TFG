@@ -7,10 +7,10 @@
 <html>
     <link rel="icon" type="image/png" href="images/favicon.png">
     <head>
-        <title>INSCRIPCION</title>
+        <title>PAGINA PRINCIPAL</title>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-        <link rel="stylesheet" href="assets/css/main.css" />
+        <link rel="stylesheet" href="assets/css/main_3.css" />
         <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
     </head>
     <body class="is-preload">
@@ -42,8 +42,7 @@
             <!-- Main -->
             <article id="main">
                 <header>
-                    <h2>Incribete en las siguientes competiciones</h2>
-                    <p>Elige donde jugar solo o con tu equipo</p>
+
                 </header>
                 <section class="wrapper style5">
                     <div class="inner">
@@ -127,4 +126,6 @@
 
     </body>
 </html>
+
+
 

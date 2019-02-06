@@ -7,7 +7,7 @@
 <html>
     <link rel="icon" type="image/png" href="images/favicon.png">
     <head>
-        <title>FIFA 19 - VIRTUAL PRO</title>
+        <title>FIFA 19 - ULTIMATE TEAM</title>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
         <link rel="stylesheet" href="assets/css/main_2.css" />
@@ -43,8 +43,8 @@
             <!-- Main -->
             <article id="main">
                 <header>
-                    <h2>VIRTUAL PRO</h2>
-                    <p>Inscribe a tu equipo en la liga de Virtual Pro</p>
+                    <h2>ULTIMATE TEAM</h2>
+                    <p>Inscribe a tu equipo en la liga de Utimate Team</p>
                 </header>
                 <section class="wrapper style5">
                     <div class="inner">
@@ -58,36 +58,12 @@
                                 
                             <div class="col-3">
                                 <br/><br/>
-                                <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 1" required="required">
+                                <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador" required="required">
                                 <br/>
-                                <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 2" required="required">
-                                <br/>
-                                <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 3" required="required">
-                                <br/>
-                                <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 4" required="required">
-                                <br/>
+                                
 
                             </div>
-                            <div class="col-3-small">
-                                <br/><br/>
-                                <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 5" required="required">
-                                <br/>
-                                <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 6" required="required">
-                                <br/>
-                                <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 7" required="required">
-                                <br/>
-                                <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 8" required="required">
-                                <br/>
-
-                            </div>
-                            <div class="col-3">
-                                <br/><br/>
-                                <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 9" required="required">
-                                <br/>
-                                <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 10" required="required">
-                                <br/>
-                                <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 11" required="required">
-                                <br/>
+                            
 
 
                             </div>
@@ -126,6 +102,5 @@
 
     </body>
 </html>
-
 
 

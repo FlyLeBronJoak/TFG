@@ -56,7 +56,7 @@
                             <input id ="cajaPassword" class="form-control" type="password" placeholder="Repite Contraseña">
                             <br
 
-                                <a href="index.php"><button id="boton1" class="button primary" type="submit" href="index.php">REGISTRAR</button></a>
+                               <a href="fechasTorneos.php"><button id="boton1" class="button primary" type="submit">REGISTRAR</button></a>
                             <br/><br/>
                         </div>
                         <div class="col-4">
