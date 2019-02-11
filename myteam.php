@@ -7,10 +7,10 @@
 <html>
     <link rel="icon" type="image/png" href="images/favicon.png">
     <head>
-        <title>FIFA 19 - VIRTUAL PRO</title>
+        <title>NBA 2K19 - MY TEAM</title>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-        <link rel="stylesheet" href="assets/css/main.css" />
+        <link rel="stylesheet" href="assets/css/main_4.css" />
         <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
     </head>
     <body class="is-preload">
@@ -44,127 +44,30 @@
             <!-- Main -->
             <article id="main">
                 <header>
-                    <h2>HORARIO DE COMPETICIONES</h2>
-                    
+                    <h2>MY TEAM</h2>
+                    <p>Inscribete a la liga de My Team</p>
                 </header>
                 <section class="wrapper style5">
                     <div class="inner">
-                        <table class="egt">
+                        <div class ="row">
+                            <div class="col-3">
+                                <br/><br/>
+                                <input id ="cajaNombre" class="form-control" type="text" placeholder="Nombre de Equipo" required="required">
+                                <br/>
+                                
+                            </div> 
+                                
+                            <div class="col-3">
+                                <br/><br/>
+                                <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador" required="required">
+                                <br/>
+                                
+                                
+                            <a href="fechasTorneos.php"><button id="boton1" class="button primary" type="submit">CONFIRMAR</button></a>
+                            <br/><br/>
 
-                            <tr>
 
-                                <th>Competicion: Copa Summer 2019</th>
-
-                            </tr>
-
-                            <tr>
-
-                                <th>Día</th>
-
-                                <th>Hora</th>
-
-                                <th>Local</th>
-
-                                <th>Visitante</th>
-
-                            </tr>
-
-                            <tr>
-
-                                <td>16 Junio</td>
-
-                                <td>20:45</td>
-
-                                <td>Titans</td>
-
-                                <td>Lions</td>
-
-                            </tr>
-
-                            <tr>
-
-                                <td>19 Junio</td>
-
-                                <td>18:30</td>
-
-                                <td>Lions</td>
-
-                                <td>Supers</td>
-
-                            </tr>
-
-                            <tr>
-
-                                <td>20 Junio</td>
-
-                                <td>18:30</td>
-
-                                <td>Lions</td>
-
-                                <td>Virtuals</td>
-
-                            </tr>
-
-                        </table>
-                        
-                        <table class="egt">
-
-                            <tr>
-
-                                <th>Competicion: Liga 2018-2019 <a href="clasificacion.php">      Consultar Clasificación</a></th>
-
-                            </tr>
-
-                            <tr>
-
-                                <th>Día</th>
-
-                                <th>Hora</th>
-
-                                <th>Local</th>
-
-                                <th>Visitante</th>
-
-                            </tr>
-
-                            <tr>
-
-                                <td>7 Julio</td>
-
-                                <td>20:45</td>
-
-                                <td>Titans</td>
-
-                                <td>Lions</td>
-
-                            </tr>
-
-                            <tr>
-
-                                <td>14 Julio</td>
-
-                                <td>18:30</td>
-
-                                <td>Lions</td>
-
-                                <td>Supers</td>
-
-                            </tr>
-
-                            <tr>
-
-                                <td>22 Agosto</td>
-
-                                <td>18:30</td>
-
-                                <td>Lions</td>
-
-                                <td>Virtuals</td>
-
-                            </tr>
-
-                        </table>
-                    </div>
+                        </div>
                 </section>
             </article>
 
@@ -195,8 +98,4 @@
 
     </body>
 </html>
-
-
-
-
 

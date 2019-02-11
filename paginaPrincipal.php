@@ -26,6 +26,7 @@
                         <li class="special">
                             <a href="#menu" class="menuToggle"><span>Menu</span></a>
                             <div id="menu"><ul>
+                                    <li>Usuario: LeBronJoak</li>
                                     <li><a href="gestionarCompeti.php">Gestionar tus Competiciones</a></li>
                                     <li><a href="perfilUsuario.php">Gestionar Perfil</a></li>
                                     <li><a href="fechasTorneos.php">Fechas de Torneos</a></li>
@@ -42,7 +43,8 @@
             <!-- Main -->
             <article id="main">
                 <header>
-
+                    <h2>INSCRIBIRSE</h2>
+                    <p>Inscribete a nuestros torneos</p>
                 </header>
                 <section class="wrapper style5">
                     <div class="inner">
@@ -58,26 +60,26 @@
 
                         <h3>NBA 2K19</h3>
                         <p><span class="image left"><img src="images/nba_2k19.jpg" alt="" /></span></p>
-                        <p>MY TEAM</p><a href="virtualpro.php"><button id="boton1" class="button primary" type="submit">INSCRIBIRSE</button></a>
+                        <p>MY TEAM</p><a href="myteam.php"><button id="boton1" class="button primary" type="submit">INSCRIBIRSE</button></a>
                         <br/><br/>
-                        <p>EL PARQUE</p><a href="virtualpro.php"><button id="boton1" class="button primary" type="submit">INSCRIBIRSE</button></a>
+                        <p>EL PARQUE</p><a href="elParque.php"><button id="boton1" class="button primary" type="submit">INSCRIBIRSE</button></a>
                         <br/><br/>
                         
                         <hr />
                         
                         <h3>CALL OF DUTY BLACK OPS 4</h3>
                         <p><span class="image left"><img src="images/bo4_logo.png" alt="" /></span></p>
-                        <p>BATTLE ROYALE</p><a href="virtualpro.php"><button id="boton1" class="button primary" type="submit">INSCRIBIRSE</button></a>
+                        <p>BATTLE ROYALE</p><a href="codBattleRoyale.php"><button id="boton1" class="button primary" type="submit">INSCRIBIRSE</button></a>
                         <br/><br/>
-                        <p>DUELO POR EQUIPOS</p><a href="virtualpro.php"><button id="boton1" class="button primary" type="submit">INSCRIBIRSE</button></a>
+                        <p>DUELO POR EQUIPOS</p><a href="dueloPorEquipos.php"><button id="boton1" class="button primary" type="submit">INSCRIBIRSE</button></a>
                         <br/><br/>
                         <hr />
 
                         <h3>FORTNITE</h3>
                         <p><span class="image left"><img src="images/fortnite.png" alt="" /></span></p>
-                        <p>SOLO</p><a href="virtualpro.php"><button id="boton1" class="button primary" type="submit">INSCRIBIRSE</button></a>
+                        <p>SOLO</p><a href="fortniteSolo.php"><button id="boton1" class="button primary" type="submit">INSCRIBIRSE</button></a>
                         <br/><br/>
-                        <p>DUOS</p><a href="virtualpro.php"><button id="boton1" class="button primary" type="submit">INSCRIBIRSE</button></a>
+                        <p>DUOS</p><a href="fortniteDuos.php"><button id="boton1" class="button primary" type="submit">INSCRIBIRSE</button></a>
                         <br/><br/>
                         
                         
@@ -86,9 +88,9 @@
 
                         <h3>CSGO</h3>
                         <p><span class="image left"><img src="images/csgo.png" alt="" /></span></p>
-                        <p>DUELO POR EQUIPOS</p><a href="virtualpro.php"><button id="boton1" class="button primary" type="submit">INSCRIBIRSE</button></a>
+                        <p>DUELO POR EQUIPOS</p><a href="csgoEquipos.php"><button id="boton1" class="button primary" type="submit">INSCRIBIRSE</button></a>
                         <br/><br/>
-                        <p>BUSCAR Y DESTRUIR</p><a href="virtualpro.php"><button id="boton1" class="button primary" type="submit">INSCRIBIRSE</button></a>
+                        <p>BUSCAR Y DESTRUIR</p><a href="csgoBuscar.php"><button id="boton1" class="button primary" type="submit">INSCRIBIRSE</button></a>
                         <br/><br/>
                         
                         

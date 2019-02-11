@@ -26,6 +26,7 @@
                         <li class="special">
                             <a href="#menu" class="menuToggle"><span>Menu</span></a>
                             <div id="menu"><ul>
+                                    <li>Usuario: LeBronJoak</li>
                                     <li><a href="gestionarCompeti.php">Gestionar tus Competiciones</a></li>
                                     <li><a href="perfilUsuario.php">Gestionar Perfil</a></li>
                                     <li><a href="fechasTorneos.php">Fechas de Torneos</a></li>

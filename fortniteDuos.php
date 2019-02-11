@@ -7,10 +7,10 @@
 <html>
     <link rel="icon" type="image/png" href="images/favicon.png">
     <head>
-        <title>REGISTRO</title>
+        <title>FORTNITE - DUOS</title>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-        <link rel="stylesheet" href="assets/css/main.css" />
+        <link rel="stylesheet" href="assets/css/main_6.css" />
         <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
     </head>
     <body class="is-preload">
@@ -27,6 +27,7 @@
                             <a href="#menu" class="menuToggle"><span>Menu</span></a>
                             <div id="menu">
                                 <ul>
+                                    <li>Usuario: LeBronJoak</li>
                                     <li><a href="gestionarCompeti.php">Gestionar tus Competiciones</a></li>
                                     <li><a href="perfilUsuario.php">Gestionar Perfil</a></li>
                                     <li><a href="fechasTorneos.php">Fechas de Torneos</a></li>
@@ -43,37 +44,40 @@
             <!-- Main -->
             <article id="main">
                 <header>
-                    <h2>REGISTRARSE</h2>
-                    <div class ="row">
-                        <div class="col-4">
-                        </div>
-                        <div class="col-4">
-
-                            <input id ="cajaNombre" class="form-control" type="text" placeholder="Usuario" required="required">
-                            <br/>
-                            <input id ="cajaPassword" class="form-control" type="password" placeholder="Contraseña">
-                            <br/>
-                            <input id ="cajaPassword" class="form-control" type="password" placeholder="Repite Contraseña">
-                            <br
-
-                               <a href="fechasTorneos.php"><button id="boton1" class="button primary" type="submit">REGISTRAR</button>
-                            <br/><br/>
-                        </div>
-                        <div class="col-4">
-                        </div>
-                    </div>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-
+                    <h2>FORTNITE - DUOS</h2>
+                    <p>InscribeTE A LA LIGA CON TU COMPAÑERO DE FORTNITE</p>
                 </header>
+                <section class="wrapper style5">
+                    <div class="inner">
+                        <div class ="row">
+
+                            <div class="col-3">
+                                <br/><br/>
+                                <input id ="cajaNombre" class="form-control" type="text" placeholder="Nombre de Equipo" required="required">
+                                <br/>
 
 
+                            </div>    
+                            <div class="col-3">
+                                <br/><br/>
+                                <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 1" required="required">
+                                <br>
+                                <input id ="cajaNombre" class="form-control" type="text" placeholder="Jugador 2" required="required">
+                                <br/>
+
+
+                            </div>
+
+
+
+                        </div>
+                        <a href="fechasTorneos.php"><button id="boton1" class="button primary" type="submit">CONFIRMAR</button></a>
+                        <br/><br/>
+
+
+                    </div>
+                </section>
             </article>
-
 
             <!-- Footer -->
             <footer id="footer">
@@ -102,3 +106,12 @@
 
     </body>
 </html>
+
+
+
+
+
+
+
+
+
